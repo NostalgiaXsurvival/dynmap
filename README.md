@@ -1,1 +1,1 @@
-# dynmap
+# Dynmapa serveru NostalgiaX.
